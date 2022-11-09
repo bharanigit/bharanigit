@@ -6,7 +6,6 @@
 
 # find the smallest element in a list without using min() function and sort() function
 
-""" find factorial of a number """      # find the factorial of a number        
 
 import pandas as pd
 
